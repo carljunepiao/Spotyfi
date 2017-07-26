@@ -4,7 +4,7 @@ Name: Charlito G. Piao Jr. <br>
 Course: Computer Science <br>
 School: University of the Philippines Cebu <br>
 
-<h2>Project made for Internship Program for the company Nambal</h2>
+<h2>Project made for Internship Program in Nambal</h2>
 <ul>
   <li><strong>Music Library: Spotyfi (2017)</strong></li>
     <p> 
