@@ -1,0 +1,27 @@
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.deps.json
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.runtimeconfig.json
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.runtimeconfig.dev.json
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.dll
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.pdb
+c:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.csprojResolveAssemblyReference.cache
+c:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.AssemblyInfo.cs
+c:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.dll
+c:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.deps.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.runtimeconfig.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.runtimeconfig.dev.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\bin\Debug\netcoreapp1.1\SpotyfiLib.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.AssemblyInfo.cs
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\Spotyfi\obj\Debug\netcoreapp1.1\SpotyfiLib.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\bin\Debug\netcoreapp1.1\SpotyfiLib.deps.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\bin\Debug\netcoreapp1.1\SpotyfiLib.runtimeconfig.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\bin\Debug\netcoreapp1.1\SpotyfiLib.runtimeconfig.dev.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\bin\Debug\netcoreapp1.1\SpotyfiLib.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\bin\Debug\netcoreapp1.1\SpotyfiLib.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\obj\Debug\netcoreapp1.1\SpotyfiLib.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\obj\Debug\netcoreapp1.1\SpotyfiLib.AssemblyInfo.cs
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\obj\Debug\netcoreapp1.1\SpotyfiLib.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiLib\obj\Debug\netcoreapp1.1\SpotyfiLib.pdb

@@ -1,0 +1,21 @@
+C:\Users\kevin\Desktop\Projects\Demo\inheritanceV4\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.deps.json
+C:\Users\kevin\Desktop\Projects\Demo\inheritanceV4\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.dll
+C:\Users\kevin\Desktop\Projects\Demo\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\Projects\Demo\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Projects\Demo\inheritanceV4\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.pdb
+C:\Users\kevin\Desktop\Projects\Demo\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.dll
+C:\Users\kevin\Desktop\Projects\Demo\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.pdb
+c:\Users\ACER\Desktop\OJT\inheritanceV4\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.deps.json
+c:\Users\ACER\Desktop\OJT\inheritanceV4\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.dll
+c:\Users\ACER\Desktop\OJT\inheritanceV4\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.pdb
+c:\Users\ACER\Desktop\OJT\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.csprojResolveAssemblyReference.cache
+c:\Users\ACER\Desktop\OJT\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.AssemblyInfo.cs
+c:\Users\ACER\Desktop\OJT\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.dll
+c:\Users\ACER\Desktop\OJT\inheritanceV4\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.deps.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\PostgresSink\bin\Debug\netcoreapp1.1\PostgresSink.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.AssemblyInfo.cs
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\PostgresSink\obj\Debug\netcoreapp1.1\PostgresSink.pdb

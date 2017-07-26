@@ -1,0 +1,13 @@
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\SpotyfiApi.deps.json
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\SpotyfiApi.runtimeconfig.json
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\SpotyfiApi.runtimeconfig.dev.json
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\SpotyfiApi.dll
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\SpotyfiApi.pdb
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\obj\Debug\netcoreapp1.1\SpotyfiApi.csprojResolveAssemblyReference.cache
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\obj\Debug\netcoreapp1.1\SpotyfiApi.AssemblyInfo.cs
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\obj\Debug\netcoreapp1.1\SpotyfiApi.dll
+c:\Users\ACER\documents\visual studio 2017\Projects\Spotyfi\SpotyfiApi\obj\Debug\netcoreapp1.1\SpotyfiApi.pdb
+c:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\PostgresSink.dll
+c:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\SpotyfiLib.dll
+c:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\PostgresSink.pdb
+c:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\SpotyfiApi\bin\Debug\netcoreapp1.1\SpotyfiLib.pdb

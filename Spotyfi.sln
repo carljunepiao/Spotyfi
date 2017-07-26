@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotyfiApi", "SpotyfiApi\SpotyfiApi.csproj", "{73199EF2-A81A-4B0D-B936-9590C95D88FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9D7E3DE0-3F6E-416D-A750-87D3D1908F3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgresSink", "PostgresSink\PostgresSink.csproj", "{E26B20F8-A426-4425-9C6D-96B6010A4318}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotyfiLib", "SpotyfiLib\SpotyfiLib.csproj", "{A3A7EAC9-D6CE-4DA6-8CB5-7A87A66A6F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73199EF2-A81A-4B0D-B936-9590C95D88FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73199EF2-A81A-4B0D-B936-9590C95D88FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73199EF2-A81A-4B0D-B936-9590C95D88FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73199EF2-A81A-4B0D-B936-9590C95D88FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26B20F8-A426-4425-9C6D-96B6010A4318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26B20F8-A426-4425-9C6D-96B6010A4318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26B20F8-A426-4425-9C6D-96B6010A4318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26B20F8-A426-4425-9C6D-96B6010A4318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A7EAC9-D6CE-4DA6-8CB5-7A87A66A6F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A7EAC9-D6CE-4DA6-8CB5-7A87A66A6F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A7EAC9-D6CE-4DA6-8CB5-7A87A66A6F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A7EAC9-D6CE-4DA6-8CB5-7A87A66A6F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73199EF2-A81A-4B0D-B936-9590C95D88FE} = {9D7E3DE0-3F6E-416D-A750-87D3D1908F3B}
+		{E26B20F8-A426-4425-9C6D-96B6010A4318} = {9D7E3DE0-3F6E-416D-A750-87D3D1908F3B}
+		{A3A7EAC9-D6CE-4DA6-8CB5-7A87A66A6F6F} = {9D7E3DE0-3F6E-416D-A750-87D3D1908F3B}
+	EndGlobalSection
+EndGlobal

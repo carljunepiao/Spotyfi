@@ -1,0 +1,8 @@
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\bin\Debug\netcoreapp1.1\WebSpotyfi.deps.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\bin\Debug\netcoreapp1.1\WebSpotyfi.runtimeconfig.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\bin\Debug\netcoreapp1.1\WebSpotyfi.runtimeconfig.dev.json
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\bin\Debug\netcoreapp1.1\WebSpotyfi.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\bin\Debug\netcoreapp1.1\WebSpotyfi.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\obj\Debug\netcoreapp1.1\WebSpotyfi.AssemblyInfo.cs
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\obj\Debug\netcoreapp1.1\WebSpotyfi.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\Spotyfi\WebSpotyfi\obj\Debug\netcoreapp1.1\WebSpotyfi.pdb

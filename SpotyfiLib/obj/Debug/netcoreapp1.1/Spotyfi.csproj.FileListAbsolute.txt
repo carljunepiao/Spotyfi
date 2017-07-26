@@ -1,0 +1,9 @@
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\Spotyfi.deps.json
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\Spotyfi.runtimeconfig.json
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\Spotyfi.runtimeconfig.dev.json
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\Spotyfi.dll
+c:\Users\ACER\Desktop\OJT\Spotyfi\bin\Debug\netcoreapp1.1\Spotyfi.pdb
+c:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\Spotyfi.AssemblyInfo.cs
+c:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\Spotyfi.dll
+c:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\Spotyfi.pdb
+C:\Users\ACER\Desktop\OJT\Spotyfi\obj\Debug\netcoreapp1.1\Spotyfi.csprojResolveAssemblyReference.cache
