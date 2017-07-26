@@ -10,5 +10,10 @@ School: University of the Philippines Cebu <br>
     <p> 
        A music library that lets you add an artist, artist can add tracks and albums, and tracks can be given genres.
     </p>
-    <p>Techonologies used:</p>
+  <li><strong>Techonologies used:</strong></li>
+    <p>
+      <li>.NET Framework</li>
+      <li>C# Language</li>
+      <li>Postgresql</li>
+    </p>
 </ul>
