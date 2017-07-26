@@ -12,8 +12,8 @@ School: University of the Philippines Cebu <br>
     </p>
   <li><strong>Techonologies used:</strong></li>
     <p>
-      <li>.NET Framework</li>
-      <li>C# Language</li>
-      <li>Postgresql</li>
+      .NET Framework<br>
+      C# Language<br>
+      Postgresql<br>
     </p>
 </ul>
